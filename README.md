@@ -46,12 +46,10 @@ This portfolio also includes my learning and certificates related to **Azure AI 
 Data Analyst Portfolio | IBM Data Analyst & Azure AI Fundamentals/
 │
 ├── Certificates/
-├── Excel-Projects/
 ├── SQL-Projects/
 ├── Python-Projects/
 ├── Data-Visualization/
 ├── Azure-AI-Fundamentals/
-├── Capstone-Project/
 └── README.md
 ```
 
