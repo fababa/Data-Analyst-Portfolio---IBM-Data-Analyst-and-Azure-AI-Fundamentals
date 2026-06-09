@@ -43,7 +43,7 @@ This portfolio also includes my learning and certificates related to **Azure AI 
 ## Repository Structure
 
 ```text
-Data-Analyst-Azure-AI-Portfolio/
+Data Analyst Portfolio | IBM Data Analyst & Azure AI Fundamentals/
 │
 ├── Certificates/
 ├── Excel-Projects/
